@@ -1,0 +1,7 @@
+@inproceedings{REPO-057,
+    author = "Thomas, Sarina and Gilbert, Andrew and Ben-Yosef, Guy",
+    booktitle = "Medical Image Computing and Computer Assisted Intervention--MICCAI 2022: 25th International Conference, Singapore, September 18--22, 2022, Proceedings, Part IV",
+    pages = "380--390",
+    title = "{Light-weight Spatio-temporal Graphs for Segmentation and Ejection Fraction Prediction in Cardiac Ultrasound}",
+    year = "2022"
+}
